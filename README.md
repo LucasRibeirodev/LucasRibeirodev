@@ -1,9 +1,14 @@
 ### Olá! Me chamo Lucas Ribeiro 👋😀
+###  🚀Formando em Engenharia de Software
+###  🐍Apaixnado em Programação e sua magia
+###  🎸Músico (aproveitando segue a gente no fecebook) >>>>> [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/The-Men-of-South-116807867678167)
 
 
 ### Essas são minhas redes sociais:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ribeiro-5466b3173/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100060945741160)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucaribeiro.dev@gmail.com)
+
 
 
 ### My Stats:
