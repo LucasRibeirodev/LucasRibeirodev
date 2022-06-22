@@ -20,3 +20,12 @@
 ![AmazonAWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+
+
+
+
+### Links Úteis:
+
+### ✔️Repositório do Github Stats: https://github.com/anuraghazra/github...
+### ✔️Site de Badges: https://dev.to/envoy_/150-badges-for-...
+### ✔️Emojis: https://emojipedia.org/
