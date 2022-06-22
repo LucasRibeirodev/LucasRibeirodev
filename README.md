@@ -8,7 +8,8 @@
 
 ### My Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRibeirodev&show_icons=true&theme=dark)
+![LucasRibeirodev GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRibeirodev&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRibeirodev&layout=compact)](https://github.com/LucasRibeirodev/github-readme-stats)
 
 ### Utilizando, Aprendendo & Aprofundando em ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
