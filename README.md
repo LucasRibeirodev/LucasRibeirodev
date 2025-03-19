@@ -1,4 +1,4 @@
-# 👩‍💻 Lucas Ribeiro
+# 💻 Lucas Ribeiro
 
 **`Desenvolvedora FullStack`**
 
