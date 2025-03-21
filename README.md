@@ -1,4 +1,4 @@
-<h2 align="left">Olá! <br>Me chamo Lucas Ribeiro, tenho 37 anos e sou natural do interior de São Paulo, atualmente morando em Curitiba/PR a mais de 15 anos. Sou Técnico em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FASUL Educacional. Sou apaixonado por tecnologia e música.</h2>
+<h2 align="left">Olá!👋 <br>Me chamo Lucas Ribeiro, tenho 37 anos e sou natural do interior de São Paulo, atualmente morando em Curitiba/PR a mais de 15 anos. Sou Técnico em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FASUL Educacional. Sou apaixonado por tecnologia e música.</h2>
 
 ###
 
